@@ -36,6 +36,7 @@ export default function Home() {
                 priority
               />
             </a>
+            <div className='text-3xl mg-test'>hogehoge</div>
           </div>
         </div>
 
